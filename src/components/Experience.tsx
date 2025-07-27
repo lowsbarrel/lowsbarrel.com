@@ -5,7 +5,7 @@ const experiences = [
   {
     company: "Quantivo",
     role: "Co-Founder & CTO",
-    period: "2023 - Now",
+    period: "2025 - Now",
     location: "Italy",
     description: "Founded and leading the technical vision of a fintech software company. Building scalable financial solutions and managing the entire tech stack.",
     color: "status-blue"
@@ -13,7 +13,7 @@ const experiences = [
   {
     company: "NoHold",
     role: "AI Engineer",
-    period: "2022 - 2023",
+    period: "2025 - 2025",
     location: "Silicon Valley, CA (Remote)",
     description: "Worked at a Silicon Valley startup developing AI products. Contributed to machine learning pipelines and AI-driven solutions.",
     color: "status-green"
@@ -21,7 +21,7 @@ const experiences = [
   {
     company: "Self-Hosting & DevOps",
     role: "DevOps Engineer",
-    period: "2020 - Present",
+    period: "2022 - Present",
     location: "Italy",
     description: "Extensive experience in DevOps, setting up and managing game servers, implementing CI/CD pipelines, and maintaining self-hosted infrastructure.",
     color: "status-orange"
@@ -29,7 +29,7 @@ const experiences = [
   {
     company: "AI & Big Data Studies",
     role: "University Student",
-    period: "2022 - Present",
+    period: "2024 - Present",
     location: "Italy",
     description: "Currently pursuing bachelor's degree in AI and Big Data. Diving deep into machine learning, data science, and artificial intelligence.",
     color: "status-purple"
